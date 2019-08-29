@@ -3,4 +3,4 @@ The following repository is a rudimentary forecast of oil prices. The objective 
 
 The project begins with the univariate case by predicting WTI with an ARIMA model. Our next forecast takes into consideration the bivariate case by incorporating Brent Crude prices. Cointegration factors are found using the Johannsen Procedure and VECM to forecast both Brent & WTI.
 
-Code alongside output can be found in ForecastingCrudeOil.ipynb. If the former fails to laod please view solely the R code. Thank you. 
+Code alongside output can be found in ForecastingCrudeOil.ipynb. If the former fails to load please view ForecastingCrudeOil.R. Thank you. 
